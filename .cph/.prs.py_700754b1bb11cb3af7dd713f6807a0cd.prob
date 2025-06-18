@@ -1,0 +1,1 @@
+{"name":"Local: prs","url":"c:\\Users\\Aman kumar\\OneDrive\\Desktop\\c course\\structure\\prs.py","tests":[{"id":1739373372527,"input":"2\n9\n8 4 2 1 3 2 5 8 2\n2\n1 2","output":"3\n2 2 8\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Aman kumar\\OneDrive\\Desktop\\c course\\structure\\prs.py","group":"local","local":true}
